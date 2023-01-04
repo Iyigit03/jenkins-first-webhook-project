@@ -1,1 +1,1 @@
-print('Hello World-degistirdim-updateledim')
+print('Hello World-UPDATED')
